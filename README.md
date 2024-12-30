@@ -1,5 +1,5 @@
 # .dotfiles
-https://imgur.com/a/XXDnNnY
+![Preview](https://imgur.com/a/XXDnNnY)
 Window Decor: Scratchy <br>  
 Icons: Papirus-Dark <br>  
 Terminal Font: FiraCode NerdFont <br>  
