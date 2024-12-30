@@ -1,4 +1,4 @@
 # .dotfiles
 Window Decor: Scratchy <br>  
-Icons: Papirus-Dark
-Zsh Theme: powerlevel10k pure
+Icons: Papirus-Dark <br>  
+Zsh Theme: powerlevel10k pure <br>  
