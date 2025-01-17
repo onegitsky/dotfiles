@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "luisbocanegra17b@gmail.com",
+                "Name": "Luis Bocanegra"
+            }
+        ],
+        "BugReportUrl": "https://github.com/luisbocanegra/plasma-panel-colorizer/issues",
+        "Category": "Utilities",
+        "Description": "Latte-Dock and WM status bar customization features for the default Plasma panel",
+        "Id": "luisbocanegra.panel.colorizer",
+        "EnabledByDefault": false,
+        "Icon": "desktop",
+        "License": "GPL-3.0",
+        "Name": "Panel colorizer",
+        "Version": "1.2.0",
+        "Website": "https://github.com/luisbocanegra/plasma-panel-colorizer"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

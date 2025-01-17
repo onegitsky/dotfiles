@@ -1,0 +1,10 @@
+gruvbox.nvim-basic-usage	gruvbox.nvim.txt	/*gruvbox.nvim-basic-usage*
+gruvbox.nvim-configuration	gruvbox.nvim.txt	/*gruvbox.nvim-configuration*
+gruvbox.nvim-configuration-overriding	gruvbox.nvim.txt	/*gruvbox.nvim-configuration-overriding*
+gruvbox.nvim-installing	gruvbox.nvim.txt	/*gruvbox.nvim-installing*
+gruvbox.nvim-installing-using-lazy.nvim	gruvbox.nvim.txt	/*gruvbox.nvim-installing-using-lazy.nvim*
+gruvbox.nvim-installing-using-packer	gruvbox.nvim.txt	/*gruvbox.nvim-installing-using-packer*
+gruvbox.nvim-installing-using-vim-plug	gruvbox.nvim.txt	/*gruvbox.nvim-installing-using-vim-plug*
+gruvbox.nvim-prerequisites	gruvbox.nvim.txt	/*gruvbox.nvim-prerequisites*
+gruvbox.nvim-table-of-contents	gruvbox.nvim.txt	/*gruvbox.nvim-table-of-contents*
+gruvbox.nvim.txt	gruvbox.nvim.txt	/*gruvbox.nvim.txt*
