@@ -7,6 +7,7 @@
 **Zsh Theme:** powerlevel10k *pure* <br>  
 **Application Launcher:** wofi *(powermenu included)* <br>
 
+
 **KDE Widgets:** PlasMusic Toolbar <br>
 
 ![3](https://github.com/user-attachments/assets/66bfb803-be02-461a-83b6-f756d4904793)
