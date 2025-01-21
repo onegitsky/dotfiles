@@ -6,7 +6,7 @@ selected=$(echo -e $entries|wofi --width 250 --height 210 --dmenu --cache-file /
 
 case $selected in
   logout)
-    exec loginctl | grep ${XDG_SESSION_ID} | exec loginctl kill-session "${XDG_SESSION_ID}";;
+    exec loginctl kill-session "${XDG_SESSION_ID}";;
   reboot)
     exec systemctl reboot;;
   shutdown)
